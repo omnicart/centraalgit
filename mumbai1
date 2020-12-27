@@ -1,4 +1,9 @@
-1st line1 of commit code adding more code
+1st line1 of commit code adding more code by ainkya
 2nd line commit from london team dont worry just check purpose i add code
+<<<<<<< HEAD
 3rd line commit from mumbai team.
 4th line commit from ajinkya just testing purpose
+=======
+3rd line commit from mumbai team chages done under by london team ajinkya
+4th commit by ajinkya just test purpose
+>>>>>>> 6ca500d8f58e3ae1c69adca53985803d71e785ba
